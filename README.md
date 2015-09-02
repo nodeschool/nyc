@@ -1,11 +1,16 @@
-nyc
+NodeSchool NYC :school: :statue_of_liberty:
 ===
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/nyc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Organizing nodeschool events in New York, NY!
+What is NodeSchool?
+------
+NodeSchools are in-person hosted events in which open source workshops are used as curriculum and mentors are available in case you need help.
 
-## Events
+* Main site: http://nodeschool.io
+* NYC Chapter site: http://nodeschool.io/nyc
+* Workshops: http://nodeschool.io/#workshopper-list
 
-We held our first nodeschool NYC session on February 23, 2014 at [Huge Inc.](http://www.hugeinc.com/events/node-school) in Dumbo. [@brianloveswords](https://twitter.com/brianloveswords), the lead host and organizer, wrote a great [debrief](https://github.com/nodeschool/discussions/issues/93#issuecomment-36045066).
 
-We'll be hosting another one soon!
+## When is the next Node School?
+**Sept 24th, 6:30 PM at Condé Nast**<br/>
+RSVP: [http://www.meetup.com/NY-JavaScript/events/224933312](http://www.meetup.com/NY-JavaScript/events/224933312)
