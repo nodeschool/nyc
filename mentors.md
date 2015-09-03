@@ -1,5 +1,5 @@
 | Mentor  |   JavaScripting  |   LearnYouNode   | ExpressWorks     | LearnYouReact    | LearnYouMongo    |
-| :------ |:----------------:| :---------------:| :-----------:    | :------------:   | :------------   :|
+| :------ |:----------------:| :---------------:| :-----------:    | :------------:   | :---------------:|
 | Andrew  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | Gautam  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | Evelyn  |:white_check_mark:|:white_check_mark:|                  |                  |                  |
