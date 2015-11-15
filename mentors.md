@@ -6,5 +6,5 @@
 | Will    |:white_check_mark:|:white_check_mark:|:white_check_mark:|                  |:white_check_mark:|
 | Justin  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | Cristina|:white_check_mark:|:white_check_mark:|:white_check_mark:|                  |                  |
-| Tapan   |:white_check_mark:|:white_check_mark:|                  |                  |                  |
+| Tapan   |:white_check_mark:|:white_check_mark:|:white_check_mark:|                  |:white_check_mark:|
 | Mayank  |:white_check_mark:|:white_check_mark:|                  |                  |                  |
