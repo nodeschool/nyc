@@ -12,5 +12,5 @@ NodeSchools are in-person hosted events in which open source workshops are used 
 
 
 ## When is the next Node School?
-**Sept 24th, 6:30 PM at Condé Nast**<br/>
-RSVP: [http://www.meetup.com/NY-JavaScript/events/224933312](http://www.meetup.com/NY-JavaScript/events/224933312)
+**Feb 25th, 6:30 PM at Condé Nast**<br/>
+RSVP: [http://www.meetup.com/NY-JavaScript/events/227501891](http://www.meetup.com/NY-JavaScript/events/227501891)
