@@ -1,6 +1,6 @@
 NodeSchool NYC :school: :statue_of_liberty:
 ===
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/nyc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Join us on Slack](http://nyjavascript-slack.herokuapp.com/badge.svg)](https://nyjavascript-slack.herokuapp.com/)
 
 What is NodeSchool?
 ------
@@ -11,6 +11,16 @@ NodeSchools are in-person hosted events in which open source workshops are used 
 * Workshops: http://nodeschool.io/#workshopper-list
 
 
-## When is the next Node School?
-**May 19th, 6:30 PM at Condé Nast**<br/>
-RSVP: [http://www.meetup.com/NY-JavaScript/events/230687530/](http://www.meetup.com/NY-JavaScript/events/230687530/)
+## When is the next NodeSchool?
+**Feb 23rd, 6:30 PM**<br/>
+[RSVPs are OPEN on Meetup](https://www.meetup.com/NY-JavaScript/events/237477392/)
+
+## Can't make it to this one? There is one every month!
+
+[See Past Events](https://github.com/nodeschool/nyc/blob/master/past-events.md) - 1 in 2014, 9 in 2015, 11 in 2016!
+
+[See Upcoming Events](https://github.com/nodeschool/nyc/blob/master/upcoming-events.md)
+
+---
+
+Organized by the team at [NY JavaScript](https://www.meetup.com/ny-javascript)
