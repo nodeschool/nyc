@@ -1,4 +1,4 @@
-Past events
+Upcoming events
 ==
 **Mar 2017**<br/>
 Date: Mar 16, 2017<br/>
