@@ -1,0 +1,16 @@
+{
+  "nextEvent": {
+    "dayOfTheWeek": "Tuesday",
+    "date": "March 19th",
+    "time": "4-7PM",
+    "address": "Microsoft, 11 Time Square, New York, NY 10036",
+    "addressUrlSafe": "11+Time+Square,+New+York,+NY+10036",
+    "mentorsUrl": "TBD",
+    "ticketsUrl": "https://www.meetup.com/sfnodeschool/events/258536522/"
+  },
+  "focusedSession": {
+    "title": "Creating something awesome with Node.js",
+    "speaker": "Awesome Developer",
+    "description": "You'll learn how to create something really stellar using Node.js in this session ✨"
+  }
+}
