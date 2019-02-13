@@ -2,15 +2,15 @@
   "nextEvent": {
     "dayOfTheWeek": "Tuesday",
     "date": "March 19th",
-    "time": "4-7PM",
+    "time": "5-9PM",
     "address": "Microsoft, 11 Time Square, New York, NY 10036",
     "addressUrlSafe": "11+Time+Square,+New+York,+NY+10036",
-    "mentorsUrl": "TBD",
-    "ticketsUrl": "https://www.meetup.com/sfnodeschool/events/258536522/"
+    "mentorsUrl": "https://github.com/nodeschool/nyc/issues/32",
+    "ticketsUrl": "https://www.meetup.com/nodeschoolnyc/events/258910478/"
   },
   "focusedSession": {
-    "title": "Creating something awesome with Node.js",
-    "speaker": "Awesome Developer",
-    "description": "You'll learn how to create something really stellar using Node.js in this session ✨"
+    "title": "To Be Selected📝",
+    "speaker": "You?",
+    "description": "We're currently looking for Focuses Session presenters! If you're interested in presenting a Focused Session, please feel free to create an issue to propose one!"
   }
 }
