@@ -17,7 +17,7 @@ We utilize [GitHub Issues](http://nodeschool.io/nyc/issues) like a message board
 
 ## Contributing to the website
 
-The website is generated using Mustache templates, Stylus, and JavaScript. It runs on [GitHub Pages](https://pages.github.com/) – pull requests welcome!.
+The website is generated using Mustache templates, Stylus, and JavaScript. It runs on [GitHub Pages](https://pages.github.com/) – pull requests welcome!
 
 ### Running locally
 
