@@ -10,7 +10,7 @@ We utilize [GitHub Issues](http://nodeschool.io/nyc/issues) like a message board
 
 ## Team
 
-- **Franziska Hinkelmann:**: [GitHub](https://github.com/fhinkel), [Twitter](https://twitter.com/fhinkel)
+- **Franziska Hinkelmann**: [GitHub](https://github.com/fhinkel), [Twitter](https://twitter.com/fhinkel)
 - **Joe Sepi**: [GitHub](https://github.com/joesepi), [Twitter](https://twitter.com/joe_sepi/)
 - **Tierney Cyren**: [GitHub](https://github.com/bnb), [Twitter](https://twitter.com/bitandbang/)
 - **John Elliott**: [GitHub](https://github.com/johnelliott), [Twitter](https://twitter.com/johnelliottdc/)
