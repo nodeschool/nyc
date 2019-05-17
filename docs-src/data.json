@@ -1,12 +1,12 @@
 {
   "nextEvent": {
     "dayOfTheWeek": "Tuesday",
-    "date": "May 7th",
-    "time": "5-8PM",
-    "address": "IBM Astor Place Cafe, 5th floor: 51 Astor Pl, New York, NY 10003",
-    "addressUrlSafe": "51-Astor-Pl-New-York-NY-10003",
-    "mentorsUrl": "https://github.com/nodeschool/nyc/issues/34",
-    "ticketsUrl": "https://www.meetup.com/nodeschoolnyc/events/260005249/"
+    "date": "July 9th",
+    "time": "5-9PM",
+    "address": "TBA",
+    "addressUrlSafe": "tba",
+    "mentorsUrl": "https://github.com/nodeschool/nyc/issues/40",
+    "ticketsUrl": "https://www.meetup.com/nodeschoolnyc/events/261514837"
   },
   "focusedSession": {
     "title": "To Be Selected📝",
