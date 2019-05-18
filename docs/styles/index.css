@@ -648,10 +648,12 @@ footer ul {
 .focused {
   display: block;
 }
-.faq {
+.faq,
+.focused {
   position: relative;
 }
-.faq:after {
+.faq:after,
+.focused:after {
   content: '';
   display: block;
   position: absolute;
@@ -668,11 +670,13 @@ footer ul {
 .faq__answer {
   margin: 0;
 }
-.code-of-conduct {
+.code-of-conduct,
+.what-happens {
   background: #f7f7f7;
   position: relative;
 }
-.code-of-conduct:after {
+.code-of-conduct:after,
+.what-happens:after {
   content: '';
   display: block;
   position: absolute;

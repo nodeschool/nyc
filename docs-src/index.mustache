@@ -84,6 +84,23 @@
       </section>
       {{/focusedSession}}
 
+      <section id="what-happens" class="what-happens  section">
+        <div class="section__content">
+          <h2>What actually happens at a NodeSchool NYC event?</h2>
+          {{ #schedule }}
+            <p>NodeSchool NYC events are an opportunity to hang out with other learners and mentors in a low stress, encouraging environment. Get set up to work on lessons with real industry tools on your own computer, at your own pace. A typical event follows this schedule:</p>
+            <ul class="schedule">
+              <li>{{ schedule.start }}</li>
+              <li>{{ schedule.intro }}</li>
+              <li>{{ schedule.work }}</li>
+              <li>{{ schedule.pizza }}</li>
+              <li>{{ schedule.end }}</li>
+            </ul>
+            <strong>Please note: Latecomers are entirely welcome!</strong>
+          {{ /schedule }}
+        </div>
+      </section>
+
       <section id="faq" class="faq section">
         <div class="faq__content section__content">
           <h2 class="faq__heading">Frequently Asked Questions</h2>
@@ -100,21 +117,6 @@
             </dt>
             <dd class="faq__answer">
               Franziska Hinkelmann (<a href="https://twitter.com/fhinkel">@fhinkel</a>), Joe Sepi (<a href="https://twitter.com/joe_sepi">@joe_sepi</a>), Tierney Cyren (<a href="https://twitter.com/bitandbang">@bitandbang</a>), and John Elliott (<a href="https://twitter.com/johnelliottdc">@johnelliottdc</a>) run the NYC chapter.
-            </dd>
-
-            <dt class="faq__question">
-              <h4 class="faq__subheading">What actually happens at a NodeSchool NYC event?</h4>
-            </dt>
-            <dd class="faq__answer">
-              NodeSchool NYC events are an opportunity to hang out with other learners and mentors in a low stress, encouraging environment. Get set up to work on lessons with real industry tools on your own computer, at your own pace. A typical event follows this schedule:
-              <ul class="schedule">
-                <li class="schedule__item"><strong>5:00</strong> - Doors open</li>
-                <li class="schedule__item"><strong>5:15</strong> - Introduction and opening announcements</li>
-                <li class="schedule__item"><strong>5:45-9:00</strong> - Learning/mentoring</li>
-                <li class="schedule__item"><strong>6:00ish</strong> - Pizza! <img src="./images/pizza-emoji.png" class="emoji" alt="pizza emoji"></li>
-                <li class="schedule__item"><strong>8:00</strong> - Event ends</li>
-              </ul>
-              <strong>Please note: Latecomers are entirely welcome!</strong>
             </dd>
 
             <dt class="faq__question">
@@ -187,7 +189,6 @@
 
       <footer id="attribution" class="attribution section">
           <p>Website gratefully forked from <a href="https://nodeschool.io/sanfrancisco/">stellar folks at NodeSchool San Francisco</a>, who forked it from the <a href="https://nodeschool.io/oakland/">fine folks at NodeSchool Oakland</a>.</p>
-          <p>Emoji icons provided free by <a href="https://www.emojione.com/">EmojiOne</a>.</p>
           <p>Fonts hosted by <a href="https://fonts.google.com/selection?selection.family=Montserrat|Raleway">Google Fonts</a>.</p>
       </footer>
     </div>

@@ -2,15 +2,22 @@
   "nextEvent": {
     "dayOfTheWeek": "Tuesday",
     "date": "July 9th",
-    "time": "5-9PM",
-    "address": "TBA",
-    "addressUrlSafe": "tba",
+    "time": "6-9PM",
+    "address": "Galvanize – New York",
+    "addressUrlSafe": "https://www.google.com/maps/place/Galvanize+-+New+York/@40.7259948,-74.0082949,15z/data=!4m2!3m1!1s0x0:0x3af58266e45afbae?sa=X&ved=2ahUKEwjFqe3LjaPiAhXxlOAKHTCAA5AQ_BIwDnoECA0QCA",
     "mentorsUrl": "https://github.com/nodeschool/nyc/issues/40",
     "ticketsUrl": "https://www.meetup.com/nodeschoolnyc/events/261514837"
   },
   "focusedSession": {
-    "title": "To Be Selected📝",
+    "title": "To Be Selected 📝",
     "speaker": "You?",
     "description": "We're currently looking for Focuses Session presenters! If you're interested in presenting a Focused Session, please feel free to create an issue to propose one!"
+  },
+  "schedule": {
+    "start": "6:00pm – Doors open && pizza 🍕.",
+    "pizza": "6:00pm - 6:30pm: Networking.",
+    "intro": "6:30pm – Introduction and opening announcements.",
+    "work": "6:45pm to 9:00pm – Workshoppers, learning, and mentorship.",
+    "end": "9:00pm – Event ends."
   }
 }
