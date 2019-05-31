@@ -40,3 +40,15 @@ Now you can visit `http://localhost:8080/` in your browser to see the website.
 
 - [Gautam Arora](https://twitter.com/gautam) and the rest of the [NYC JavaScript](https://nyc.js.org/) team + community for maintaining the NodeSchool NYC meetup previously.
 - [NodeSchool SF](https://nodeschool.io/sanfrancisco/) and [NodeSchool Oakland](https://nodeschool.io/oakland/) for the work they've done on their NodeSchool website template, which we're now using 💕
+
+## Checklist for organizers
+
+- Venue: 
+ - Directions, where's the entrance, which floor
+ - Special security? We always collect real names and ask attendees to bring IDs
+ - Signs
+ - Food: vegetarian options
+ - Drinks: non alcoholic options
+ - Gender neutral restrooms
+- Bring white stickers and markers for name tags
+- Bring post its in different colors. Used by attendees to indicate that they need help
