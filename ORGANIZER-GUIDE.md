@@ -20,6 +20,9 @@ There are a few things that many evnet spaces need. Here's a small list of thing
   * This tool is not perfect. The Full Name column does not always pull all the data that exists. If there are many empty entries, you should double check them with the data that exists inside of meetup to ensure the Full Name collumn is as full as is humanly possible.
 2. Ensure the week before and day of that everything is good with the event space. Generally they'll reach out to you but it's good to be proactive.
 
+## Add Event to Global Nodeschool.io
+Fill out the form at [https://nodeschool.io/events.html](https://nodeschool.io/events.html) to add it to the map.
+
 ## References
 
 Reference description:
