@@ -1,6 +1,6 @@
 # NodeSchool NYC
 
-Welcome to the NodeSchool San Francisco chapter's repository. We use this repository for our website and almost all our communication.
+Welcome to the NodeSchool NYC chapter's repository. We use this repository for our website and almost all our communication.
 
 You can see the website here: http://nodeschool.io/nyc
 
