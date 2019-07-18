@@ -1,12 +1,12 @@
 {
   "nextEvent": {
     "dayOfTheWeek": "Tuesday",
-    "date": "July 9th",
+    "date": "September 10",
     "time": "6-9PM",
-    "address": "Galvanize – New York",
-    "addressUrlSafe": "https://www.google.com/maps/place/Galvanize+-+New+York/@40.7259948,-74.0082949,15z/data=!4m2!3m1!1s0x0:0x3af58266e45afbae?sa=X&ved=2ahUKEwjFqe3LjaPiAhXxlOAKHTCAA5AQ_BIwDnoECA0QCA",
-    "mentorsUrl": "https://github.com/nodeschool/nyc/issues/40",
-    "ticketsUrl": "https://www.meetup.com/nodeschoolnyc/events/261514837"
+    "address": "11 Times Square (Microsoft)",
+    "addressUrlSafe": "https://www.google.com/maps/place/11+Times+Square,+New+York,+NY+10036/@40.7567292,-73.9918118,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258534f8455ad:0x55d4588f7b23a524!8m2!3d40.7567252!4d-73.9896231",
+    "mentorsUrl": "https://github.com/nodeschool/nyc/issues/47",
+    "ticketsUrl": "https://www.meetup.com/nodeschoolnyc/events/262998868/"
   },
   "focusedSession": {
     "title": "To Be Selected 📝",
