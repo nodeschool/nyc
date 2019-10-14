@@ -30,12 +30,12 @@ The website is generated using Mustache templates, Stylus, and JavaScript. It ru
 For a development server, run
 
 ```bash
-$ npm run docs:dev
+$ npm run docs:build
 ```
 
 Now you can visit `http://localhost:8080/` in your browser to see the website.
 
-**Important**: edit files inside the directory `docs-src`. Files are compiled into the `docs` folder. Changes will be compiled automatically by the `npm run docs:dev` command.
+**Important**: edit files inside the directory `docs-src`. Files are compiled into the `docs` folder.
 
 ## Special thanks
 
